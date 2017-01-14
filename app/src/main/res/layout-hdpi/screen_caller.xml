@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+    android:background="@drawable/bacback1"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+
+        android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/all_video_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:id="@+id/remote_video_parent"
+            android:layout_width="0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="3"
+            android:orientation="horizontal"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="5dip"/>
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="10dip"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dip"
+                android:orientation="horizontal"
+                android:layout_weight="2" />
+            <Button
+                android:onClick="hangUP"
+                android:textColor="@color/white"
+                android:background="@android:color/holo_red_dark"
+                android:text="END CALL"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <LinearLayout
+                android:id="@+id/local_video_parent"
+                android:layout_width="fill_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:orientation="horizontal"/>
+        </LinearLayout>
+
+    </LinearLayout>
+    <ImageView
+        android:layout_marginTop="4dp"
+        android:layout_gravity="center"
+        android:src="@drawable/person"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+        <!-- Info -->
+        <LinearLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="0dp">
+            
+            <TextView
+                    android:id="@+id/caller_contact_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dip"
+                    android:textColor="@android:color/white"
+                    android:textSize="30sp" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/caller_call_status"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dip"
+                    android:textColor="@android:color/white"
+                    android:textSize="25sp" >
+                </TextView>
+            
+        </LinearLayout>
+
+
+        
+        <!-- Video Layout -->
+       <!-- <LinearLayout
+            android:id="@+id/all_video_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/remote_video_parent" 
+                android:layout_width="0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="3"
+                android:orientation="horizontal"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="5dip"/>
+            
+            <LinearLayout
+                android:layout_width="0dip"
+                android:layout_height="fill_parent"
+                android:layout_marginRight="10dip"
+                android:layout_weight="1" 
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dip"
+                    android:orientation="horizontal"
+                    android:layout_weight="2" />
+
+                <LinearLayout
+                    android:id="@+id/local_video_parent"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dip"
+                    android:layout_weight="1"
+                    android:orientation="horizontal"/>
+            </LinearLayout>
+            
+        </LinearLayout>-->
+        
+        <!-- Control Layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/caller_pick_up_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dip"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <Button
+                android:textColor="@color/white"
+                android:background="@drawable/check"
+                android:id="@+id/caller_pick_up_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:onClick="pickUp"
+                android:text="PickUp Audio" />
+
+            <Button
+                android:textColor="@color/white"
+                android:background="@drawable/check"
+                android:id="@+id/caller_pick_up_video_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:onClick="pickUpVideo"
+                android:text="PickUp Video" />
+        </LinearLayout>
+
+      <LinearLayout
+          android:visibility="gone"
+          android:orientation="horizontal"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+        <ImageView
+
+            android:src="@drawable/muted"
+            android:id="@+id/toggle_mic_button1"
+            android:layout_width="150dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"
+            android:text="Microphone"
+            android:textAllCaps="false"
+            android:layout_marginBottom="15dip" />
+
+        <ImageView
+            android:src="@drawable/ic_speakerphone_on"
+            android:id="@+id/toggle_speaker_button1"
+            android:layout_width="250dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"
+            android:textAllCaps="false"
+            android:layout_marginBottom="15dip" />
+      </LinearLayout>
+        <Button
+            android:visibility="gone"
+            android:textColor="@color/white"
+            android:id="@+id/caller_hang_up_button"
+            android:background="@drawable/check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dip"
+            android:layout_gravity="center_horizontal"
+            android:onClick="hangUP"
+            android:text="HangUp"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:visibility="visible"
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginTop="20dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip">
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="16dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/toggle_speaker_button"
+                android:layout_marginLeft="20dp"
+                android:text="Speaker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <!--<Button
+                android:id="@+id/toggle_speaker_button"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/speaker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />-->
+            <Button
+                android:id="@+id/toggle_mic_button"
+                android:layout_marginLeft="20dp"
+                android:text="Microphone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <!--       <Button
+                       android:id="@+id/toggle_mic_button"
+                       android:layout_marginLeft="20dp"
+                       android:background="@drawable/mute"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content" />-->
+            <Button
+                android:layout_marginLeft="20dp"
+                android:text="Hold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <!-- <Button
+                 android:layout_marginLeft="20dp"
+                 android:background="@drawable/hold"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content" />-->
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_marginLeft="20dp"
+                android:text="Keypad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <!--<Button
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/keypad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />-->
+            <Button
+
+                android:layout_marginLeft="20dp"
+                android:text="Statistics"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <!--<Button
+
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/statistics"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />-->
+            <Button
+                android:layout_marginLeft="20dp"
+                android:text="More"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <!--<Button
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />-->
+        </LinearLayout>
+        <Button
+            android:onClick="hangUP"
+            android:textColor="@color/white"
+            android:background="@android:color/holo_red_dark"
+            android:layout_marginTop="16dp"
+            android:text="END CALL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    </LinearLayout>

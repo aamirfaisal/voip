@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="75dp"
+    android:background="#80000000">
+
+    <ImageView
+        android:id="@+id/chat_img_thumbnail"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/default_original_profile_pic_"
+        android:scaleType="centerInside" />
+
+    <TextView
+        android:id="@+id/chat_message_sender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/chat_img_thumbnail"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/chat_img_thumbnail"
+        android:text="name"
+        android:textColor="#FFF"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/chat_message_body"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/chat_message_sender"
+        android:layout_below="@+id/chat_message_sender"
+        android:layout_marginTop="17dp"
+        android:text="msg body"
+        android:textColor="#FFF" />
+</RelativeLayout>

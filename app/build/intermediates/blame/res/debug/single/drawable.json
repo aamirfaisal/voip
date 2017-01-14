@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/check.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/check.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/background_all.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/background_all.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/dialpad_background.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/dialpad_background.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/ic_plus.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/background_dial_holo_dark.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/background_dial_holo_dark.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/btn_call.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/btn_call.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/seekbar_drawable.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/seekbar_drawable.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/bacback.png",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/bacback.png"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/bg_messages.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/bg_messages.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/ic_tab_dialer.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/ic_tab_dialer.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/bacback12.png",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/bacback12.png"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/ic_minus.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/bacback1.png",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/bacback1.png"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/ic_speakerphone_off.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/ic_speakerphone_off.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/textview_background.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/textview_background.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/tile_bg.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/tile_bg.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/bacback1_cc.png",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/bacback1_cc.png"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/ic_hold_pause.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/ic_hold_pause.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/gg.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/gg.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/seek_bar_thumb.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/seek_bar_thumb.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/ic_speakerphone_on.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/ic_speakerphone_on.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/ic_tab_recent.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/ic_tab_recent.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/drawable/ic_play.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/drawable/ic_play.xml"
+    }
+]

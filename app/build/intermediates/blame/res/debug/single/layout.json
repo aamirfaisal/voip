@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/activity_add_msg_to_send.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/activity_add_msg_to_send.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/activity_grid.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/activity_grid.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/contact_list.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/contact_list.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/test_screen.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/test_screen.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/activity_check.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/activity_check.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/logs_layout.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/logs_layout.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/right.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/right.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/left.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/left.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/msg_list_items.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/msg_list_items.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/activity_main_frag.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/activity_main_frag.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/dialog_logs.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/dialog_logs.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/custom_alert.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/custom_alert.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/test.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/test.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/mainfragment.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/mainfragment.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/screen_caller.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/screen_caller.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/chat_list.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/src/main/res/layout/chat_list.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/aamirfaisal/Downloads/PITBPROJECTSSS/VoipTestStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout/design_navigation_menu.xml"
+    }
+]

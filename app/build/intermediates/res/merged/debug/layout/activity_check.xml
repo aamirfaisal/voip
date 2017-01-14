@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_check"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.abtotest.voiptest.Ui.CheckActivity">
+
+    <RelativeLayout
+        android:id="@+id/wifiLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/kpW"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Keep alive WiFi"
+            android:textColor="#FFF"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/on"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/kpW"
+            android:text="on"
+            android:textColor="#FFF"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/wifiCHeck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/wifiLayoutSaty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/wifiLayout"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/stayAwake"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Stay Awake"
+            android:textColor="#FFF"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/onOption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/stayAwake"
+            android:text="@string/option_text"
+            android:textColor="#FFF"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/stayAwayCHeck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bgLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/wifiLayoutSaty"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/bgRun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Run in background"
+            android:textColor="#FFF"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/bgText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bgRun"
+            android:layout_marginTop="6dp"
+            android:text="@string/bg_text"
+            android:textColor="#FFF"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/bgCHeck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/save_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="save" />
+
+        <Button
+            android:id="@+id/cancel_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="cancel" />
+    </LinearLayout>
+</RelativeLayout>

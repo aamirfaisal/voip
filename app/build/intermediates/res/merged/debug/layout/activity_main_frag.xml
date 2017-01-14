@@ -1,0 +1,279 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bacback1"
+
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textSize="64sp"
+                android:editable="false"
+                android:id="@+id/sip_number"
+                android:textColorHint="@color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+            </TextView>
+
+        </LinearLayout>
+        <RelativeLayout
+            android:id="@+id/layout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp">
+
+
+
+            <Button
+                android:background="@drawable/firsts"
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:id="@+id/button">
+            </Button>
+            <Button
+                android:background="@drawable/seconds"
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:id="@+id/button2"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:background="@drawable/thirds"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button3"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true">
+            </Button>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout1"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true">
+            <Button
+                android:background="@drawable/fourths"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button4">
+            </Button>
+            <Button
+                android:background="@drawable/fifths"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button5"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:background="@drawable/sixths"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button6"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true">
+            </Button>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <Button
+                android:background="@drawable/sevenths"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button7">
+            </Button>
+            <Button
+                android:background="@drawable/eighths"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button8"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:background="@drawable/ninths"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button9"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true">
+            </Button>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout3"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <Button
+                android:background="@drawable/star_s"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button10">
+            </Button>
+            <Button
+                android:background="@drawable/zeros"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button11"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:background="@drawable/hashs"
+
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button12"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true">
+            </Button>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:gravity="bottom"
+            android:id="@+id/layout5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout4"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <Button
+                android:background="@drawable/videos_key"
+                android:id="@+id/main_button3"
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+            </Button>
+            <Button
+                android:background="@drawable/dial_key_red"
+                android:id="@+id/main_button2"
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <Button
+                android:background="@drawable/dels"
+                android:id="@+id/delete"
+                android:textSize="24sp"
+                android:textColor="@android:color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true">
+            </Button>
+
+        </RelativeLayout>
+        <LinearLayout
+            android:visibility="gone"
+            android:layout_marginTop="32dp"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <Button
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="32dp"
+            android:layout_gravity="right"
+            android:textSize="24sp"
+            android:background="@drawable/check"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="20dp"
+            android:id="@+id/main_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Video Call " />
+
+
+        <Button
+            android:layout_marginRight="32dp"
+            android:layout_gravity="left"
+            android:textSize="24sp"
+            android:background="@drawable/check"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="20dp"
+            android:id="@+id/main_button_audio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Audio Call " />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
